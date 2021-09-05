@@ -1,6 +1,7 @@
 # Logistic_Regression
 
-Machine learning using matlab
+Machine learning project using matlab
+
 We are given a sample of 100 students. Given two exam scores and the admission result (0 for not admitted, 1 for admitted), we do the following:
 1. Plot the exam scores and result on a graph, use "o" for not admitted, and "+" for admitted.
 2. Compute cost and gradient for logistic regression.
